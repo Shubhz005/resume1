@@ -71,10 +71,10 @@ void displayResume(const PersonalInfo& person, const Education& edu, const Exper
 int main() {
     // Personal Info
     PersonalInfo person = {
-        "Yash Mane",
+        "Shubham Waghmode",
         "Baramati , Pune,
-        "yashman@mail.com",
-        "+123-456-7890"
+        "shubhamwaghode@mail.com",
+        "98374667"
     };
 
     // Education
